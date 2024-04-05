@@ -1,0 +1,29 @@
+/* App.css */
+
+.Music stream {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.Music stream h1 {
+  margin-bottom: 10px;
+}
+
+.Music stream ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Music stream ul li {
+  margin-bottom: 5px;
+}
+
+.Music stream ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.Music stream ul li a:hover {
+  color: #007bff;
+}
